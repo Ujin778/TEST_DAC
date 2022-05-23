@@ -1,0 +1,12 @@
+test_dac\eventrecorder.o: C:\Arm\Packs\Keil\ARM_Compiler\1.6.1\Source\EventRecorder.c
+test_dac\eventrecorder.o: .\RTE\_TEST_DAC\RTE_Components.h
+test_dac\eventrecorder.o: C:\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+test_dac\eventrecorder.o: ../Drivers/CMSIS/Include/core_cm3.h
+test_dac\eventrecorder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+test_dac\eventrecorder.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+test_dac\eventrecorder.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test_dac\eventrecorder.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+test_dac\eventrecorder.o: C:\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+test_dac\eventrecorder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+test_dac\eventrecorder.o: C:\Arm\Packs\Keil\ARM_Compiler\1.6.1\Include\EventRecorder.h
+test_dac\eventrecorder.o: .\RTE\Compiler\EventRecorderConf.h
